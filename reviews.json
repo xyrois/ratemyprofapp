@@ -1,0 +1,124 @@
+{
+"reviews": [
+    {
+      "professor": "Dr. Emily Hawthorne",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Engaging lectures and thought-provoking assignments. Sometimes a bit disorganized."
+    },
+    {
+      "professor": "Prof. Alan Turing",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant mind, explains complex concepts clearly. Challenging but rewarding course."
+    },
+    {
+      "professor": "Dr. Marie Curie",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Inspiring teacher with a passion for the subject. Experiments were fascinating."
+    },
+    {
+      "professor": "Prof. John Nash",
+      "subject": "Mathematics",
+      "stars": 3,
+      "review": "Brilliant mathematician, but lectures can be hard to follow. Office hours very helpful."
+    },
+    {
+      "professor": "Dr. Jane Goodall",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Incredible field experience shared. Makes primatology accessible and exciting."
+    },
+    {
+      "professor": "Prof. Stephen Hawking",
+      "subject": "Astrophysics",
+      "stars": 4,
+      "review": "Mind-bending concepts explained well. Course material is extremely challenging."
+    },
+    {
+      "professor": "Dr. Sigmund Freud",
+      "subject": "Psychology",
+      "stars": 2,
+      "review": "Outdated theories presented as fact. Interesting historical perspective though."
+    },
+    {
+      "professor": "Prof. Noam Chomsky",
+      "subject": "Linguistics",
+      "stars": 4,
+      "review": "Revolutionary ideas presented clearly. Heavy workload but worth the effort."
+    },
+    {
+      "professor": "Dr. Rachel Carson",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Passionate about the subject. Field trips were eye-opening and informative."
+    },
+    {
+      "professor": "Prof. Yuval Noah Harari",
+      "subject": "History",
+      "stars": 4,
+      "review": "Engaging storyteller. Sometimes oversimplifies complex historical events."
+    },
+    {
+      "professor": "Dr. Temple Grandin",
+      "subject": "Animal Science",
+      "stars": 5,
+      "review": "Unique perspective and practical knowledge. Hands-on learning experiences were excellent."
+    },
+    {
+      "professor": "Prof. Richard Feynman",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Makes complex physics fun and understandable. Eccentric but brilliant teacher."
+    },
+    {
+      "professor": "Dr. Brene Brown",
+      "subject": "Social Work",
+      "stars": 4,
+      "review": "Insightful lectures on vulnerability and shame. Some readings felt repetitive."
+    },
+    {
+      "professor": "Prof. Jocelyn Bell Burnell",
+      "subject": "Astronomy",
+      "stars": 5,
+      "review": "Inspiring role model. Clear explanations and exciting recent discoveries shared."
+    },
+    {
+      "professor": "Dr. Oliver Sacks",
+      "subject": "Neurology",
+      "stars": 4,
+      "review": "Fascinating case studies. Sometimes goes off on tangents during lectures."
+    },
+    {
+      "professor": "Prof. Michio Kaku",
+      "subject": "Theoretical Physics",
+      "stars": 3,
+      "review": "Entertaining lecturer but often oversimplifies. More rigor would be appreciated."
+    },
+    {
+      "professor": "Dr. Jane Austin",
+      "subject": "Sociology",
+      "stars": 2,
+      "review": "Disorganized lectures and unclear expectations. Interesting topic poorly delivered."
+    },
+    {
+      "professor": "Prof. Neil deGrasse Tyson",
+      "subject": "Astrophysics",
+      "stars": 4,
+      "review": "Charismatic teacher. Occasionally spends too much time on anecdotes instead of content."
+    },
+    {
+      "professor": "Dr. Maya Angelou",
+      "subject": "Creative Writing",
+      "stars": 5,
+      "review": "Inspirational and nurturing. Provides insightful feedback on writing assignments."
+    },
+    {
+      "professor": "Prof. Jared Diamond",
+      "subject": "Geography",
+      "stars": 3,
+      "review": "Interesting theories but some controversial claims. Stimulates good debates in class."
+    }
+  ]
+}
